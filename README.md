@@ -1,5 +1,7 @@
 # TypeScript_Tutorial
 
+From Udemy: Understanding Typescript
+
 ## Getting started
 
 Install package
